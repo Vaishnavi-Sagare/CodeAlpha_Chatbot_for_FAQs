@@ -3,6 +3,7 @@ It processes questions, matches them with the most relevant predefined FAQs, and
 
 
 📌 Features
+
 ✅ Accepts Text or Speech input
 
 ✅ Cleans and preprocesses text using NLTK
